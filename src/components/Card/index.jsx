@@ -2,7 +2,7 @@
 import styled from "styled-components";
 import iconeFavoritar from "./favoritar.png";
 import iconeDesfavoritar from "./desfavoritar.png";
-import { useFavoritoContext } from "../../hooks/useFavoritoContext";
+import { useFavoritoContext } from "@/hooks/useFavoritoContext";
 import { Link } from "react-router-dom";
 
 const ContainerCard = styled.div`

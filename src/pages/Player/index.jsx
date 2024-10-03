@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
-import Banner from "../../components/Banner/Index";
-import Titulo from "../../components/Titulo";
-import Container_style from "../../styles/Container_style";
+import Banner from "@/components/Banner/Index";
+import Titulo from "@/components/Titulo";
+import Container_style from "@/styles/Container_style";
 import NaoEncontrada from "../NaoEncontrada";
 import { useEffect, useState } from "react";
 
