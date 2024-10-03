@@ -1,0 +1,17 @@
+:root {
+  /*  fontes  */
+  --fonte: "Montserrat", sans-serif;
+
+  /*  cor:  */
+  --branco: #ffffff;
+  --preto: #000000;
+  --cinza: #e2e2e2;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color: var(--branco);
+  -webkit-font-smooting: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
