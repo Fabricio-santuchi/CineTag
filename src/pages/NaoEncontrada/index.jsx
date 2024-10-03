@@ -1,6 +1,5 @@
 import Container from "@/components/Container";
 
-
 const NaoEncontrada = () => {
   return (
     <Container>
