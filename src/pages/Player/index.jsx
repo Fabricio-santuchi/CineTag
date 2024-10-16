@@ -29,7 +29,6 @@ const Player = () => {
     return <NaoEncontrada />;
   }
 
-  console.log(video);
   return (
     <>
       <Banner imagem="player" />
@@ -45,7 +44,6 @@ const Player = () => {
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
-          allowfullscreen
         ></iframe>
       </Container_style>
     </>
