@@ -2,7 +2,9 @@
 
 ![Preview](./public/assets/preview.png)
 
-Bem-vindo ao **CineTag**! Este projeto foi criado com [React](https://reactjs.org/) e [Vite](https://vitejs.dev/), utilizando [Styled Components](https://styled-components.com/) para a estilização, [React Router](https://reactrouter.com/en/main) para navegação e uma configuração personalizada de ESLint.
+Veja o projeto em funcionamento: [CineTag na Vercel](https://cine-tag-alura-amber.vercel.app/)
+
+Este projeto foi desenvolvido como parte do curso **React: Desenvolvendo uma SPA com React Router** da [**Alura**](https://www.alura.com.br/), com o objetivo de praticar conceitos de **React**, **Vite**, **React Router** e **Styled Components**.
 
 ## Funcionalidades
 
@@ -24,7 +26,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/cinetag.git
+   git clone https://github.com/Fabricio-santuchi/CineTag.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -45,7 +47,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    npm run dev
    ```
 
-5. Abra o navegador e acesse `http://localhost:3000`.
+5. Abra o navegador e acesse ` http://localhost:5173`.
 
 ## Scripts Disponíveis
 
@@ -79,18 +81,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 - **Styled Components**: ^6.1.13
 - **Vite**: ^5.4.1
 
-## Deploy
-
-O projeto está disponível online via Vercel. Veja o projeto em funcionamento: [CineTag na Vercel](https://seu-projeto.vercel.app)
-
-## Contribuição
-
-Se você deseja contribuir com este projeto, fique à vontade para abrir issues ou pull requests. Sugestões e melhorias são bem-vindas!
-
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
-Esse README foi adaptado para o projeto **CineTag** e a estrutura mostrada no `package.json`. Você pode adicionar a imagem de preview ao repositório e ajustar o caminho da imagem no README, conforme necessário.
