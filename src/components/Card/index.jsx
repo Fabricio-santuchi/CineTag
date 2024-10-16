@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 const ContainerCard = styled.div`
   padding: 0 0 1em 0;
   margin-top: 0.5em;
-  width: 202px;
+  width: 200px;
   background-color: var(--cinza);
   display: flex;
   flex-direction: column;
@@ -26,6 +26,7 @@ const ContainerCard = styled.div`
 
 const Capa = styled.img`
   width: 100%;
+  height: 300px;
 `;
 const FavoritarIcon = styled.img`
   width: 25px;
